@@ -8,3 +8,6 @@
 ##problem 3
 -created a function that takes in three numbers and returns two values in an array
 -one value is the sum of the three numbers and the other is the product of the three numbers
+
+##problem 4
+-created a function called sumArray() that takes in an array of numbers and returns the sum of those numbers
