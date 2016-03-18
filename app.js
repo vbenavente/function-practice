@@ -24,3 +24,12 @@ function sumAndMultiply(numOne, numTwo, numThree) {
   console.log('The numbers ' + numOne + ' and ' + numTwo + ' and ' + numThree + ' have a product of ' + sumMulArray[1] + '.');
   return sumMulArray;
 }
+
+function sumArray(arrayOne) {
+  var arrayTotal = 0;
+  for(var i = 0; i < arrayOne.length; i++) {
+    arrayTotal = arrayTotal + arrayOne[i];
+  }
+  console.table(arrayOne);
+  console.log('2,3,4 was passed in as an array of numbers, and ' + arrayTotal + ' is their sum.');
+}
