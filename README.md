@@ -11,3 +11,6 @@
 
 ##problem 4
 -created a function called sumArray() that takes in an array of numbers and returns the sum of those numbers
+
+##problem 5
+-created a function called multiplyArray() that takes in an array of numbers and returns the product of those numbers
